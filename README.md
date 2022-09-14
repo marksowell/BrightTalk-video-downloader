@@ -1,3 +1,5 @@
+## UPDATE 09/24/2022: This tool no longer works. You can find the .mp4 in the source code on the BrightTalk video page and download the video directly.
+
 ### BrightTalk downloader (btdl)
 
 Download videos from BrightTalk with a GUI interface
